@@ -1,4 +1,4 @@
-# Exerecícios de Orientção a objeto
+# Exerecícios de orientação a objeto
 
 Neste repositóro contem alguns **exercícios de orientação a objeto**, utilizando a *linguagem de programação java.*
 
