@@ -7,19 +7,20 @@ Neste repositóro contem alguns **exercícios de orientação a objeto**, utiliz
 
 >**1. exercicio1**
 
-    * Crie uma classe com um método que lê dois valores inteiros e distintos e informe qual é o maior. Esse método deve ser chamado pelo método main de outra classe do mesmo projeto.
+    - Crie uma classe com um método que lê dois valores inteiros e distintos e informe qual é o maior. 
+      Esse método deve ser chamado pelo método main de outra classe do mesmo projeto.
 
 
 >**2. bytebank**
 
-    * Criar um sistema de banco.
+    - Criar um sistema de banco.
 
-    * Cadastro de clientes, sendo que cada cliente possuí um nome, cpf e profissão;
+    - Cadastro de clientes, sendo que cada cliente possuí um nome, cpf e profissão;
 
-    * Cada cliente deve possuir conta com agência, numero da conta, saldo e nome do titular;
+    - Cada cliente deve possuir conta com agência, numero da conta, saldo e nome do titular;
 
-    * Todos os clientes poderam depositar, transferir e sacar;
+    - Todos os clientes poderam depositar, transferir e sacar;
 
-    * Todos os dados deveram ser privados;
+    - Todos os dados deveram ser privados;
 
-    * Não pode valor negativo do saldo.
+    - Não pode valor negativo do saldo.
