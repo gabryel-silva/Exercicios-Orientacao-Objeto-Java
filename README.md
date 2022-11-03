@@ -1,18 +1,17 @@
-## Getting Started
+## Exerecícios de Orientção a objeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Neste repositóro contem alguns **exercícios de orientação a objeto**, utilizando a *linguagem de programação java.*
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+#### Objetivos dos exercícios
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**1. exercicio1**
+    * Crie uma classe com um método que lê dois valores inteiros e distintos e informe qual é o maior. Esse método deve ser chamado pelo método main de outra classe do mesmo projeto.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**2. bytebank**
+    * Criar um sistema de banco;
+    * Cadastro de clientes, sendo que cada cliente possuí um nome, cpf e profissão;
+    * Cada cliente deve possuir conta com agência, numero da conta, saldo e nome do titular;
+    * Todos os clientes poderam depositar, transferir e sacar;
+    * Todos os dados deveram ser privados;
+    * Não pode valor negativo do saldo.
