@@ -1,3 +1,5 @@
+package bytebank;
+
 public class Cliente {
     //atributos privados
     private String nome;
